@@ -41,6 +41,16 @@ For the data sets chosen, based on the amount of reviews made by Vine Customers 
 
 ![image](https://user-images.githubusercontent.com/107507099/205770397-8c2653dd-c15c-466d-acdb-d0cd416959de.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/107507099/205769983-882eb9e0-9107-4794-8f20-036ebb6bc0e7.png)
+
+4.Calculate the composition of star ratings for products that have both types of reviews
+
+![image](https://user-images.githubusercontent.com/107507099/205770512-af7126f9-e312-4212-94eb-cdea6468026d.png)
+
+5.Calculate the composition of votes for both types of reviews
+
+![image](https://user-images.githubusercontent.com/107507099/205770614-b7b3a0aa-1739-4470-8f43-e05cb3ea2531.png)
+
+![image](https://user-images.githubusercontent.com/107507099/205770654-345a060e-bd69-4482-b269-34e273a3eb8e.png)
+
+
